@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Finisher4</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+    <string name="clear_result">Clear table</string>
+</resources>
